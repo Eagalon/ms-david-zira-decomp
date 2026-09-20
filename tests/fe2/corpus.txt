@@ -1,0 +1,388 @@
+## zf2 corpus: prosody / pauses / units / features.  One Speak() per line; "##" lines are comments.
+## --- prose
+Hello world, how are you?
+The quick brown fox jumps over the lazy dog.
+It was the best of times, it was the worst of times.
+The committee met on Tuesday to discuss the budget for next year.
+She sells seashells by the seashore.
+A journey of a thousand miles begins with a single step.
+In the beginning God created the heaven and the earth.
+The weather today will be partly cloudy with a chance of rain in the afternoon.
+My grandmother used to bake bread every Sunday morning.
+The children played happily in the park until sunset.
+Scientists have discovered a new species of frog in the Amazon rainforest.
+The old lighthouse keeper watched the ships sail past his window every night.
+Music has the power to bring people together across cultures and generations.
+The library was quiet except for the soft rustle of turning pages.
+Our neighbors adopted a puppy from the local animal shelter.
+The mountain trail was steep, rocky, and covered with fallen leaves.
+After the storm, the streets were flooded and many trees had fallen.
+The engineer explained the design to the board of directors.
+Fresh vegetables are an important part of a healthy diet.
+The train was delayed by forty minutes because of a signal failure.
+Every morning he walks his dog along the river before breakfast.
+The museum's new exhibit features paintings from the eighteenth century.
+She finished the marathon in just under four hours.
+The software update fixed several bugs and improved performance.
+The garden was full of roses, tulips, and daffodils.
+Thousands of people gathered in the square to celebrate the new year.
+He read the letter twice before he finally understood its meaning.
+The baker opened his shop early to prepare for the holiday rush.
+Clouds drifted slowly across the pale blue sky.
+The students listened carefully as the professor described the experiment.
+## --- questions and exclamations
+Can you tell me how to get to the train station?
+Is it raining outside?
+Are you coming to the party tonight?
+Do you like chocolate ice cream?
+Does she know the answer?
+Did they finish the project on time?
+Will you marry me?
+Would you like a cup of tea or coffee?
+Could you please pass the salt?
+Have you ever been to Paris?
+Has the mail arrived yet?
+Should we leave now or wait a little longer?
+What time does the movie start?
+Where did you put my keys?
+Why did the chicken cross the road?
+Who wrote this beautiful poem?
+How many people live in this city?
+Which one do you prefer, the red one or the blue one?
+When will the package arrive?
+You're coming with us, aren't you?
+Is this the right way to the museum, or should we turn back?
+What a beautiful day it is!
+I can't believe we won!
+Watch out for that car!
+Congratulations on your new job!
+That was absolutely amazing!
+Stop!
+Help me, please!
+Oh no, I forgot my wallet!
+Really?
+You did what?
+Is it true? I can't believe it!
+He asked whether we were ready.
+I wonder if it will snow tomorrow.
+Can you believe it? She actually said yes!
+Are you sure? Yes, I am sure.
+## --- lists and commas
+I bought apples, oranges, and pears at the store.
+We need eggs, milk, butter, flour, and sugar for the cake.
+Red, orange, yellow, green, blue, indigo, and violet are the colors of the rainbow.
+The dog, the cat, and the bird all live together.
+She speaks English, French, Spanish and German.
+You can choose red or blue or green.
+Neither he nor she knew the answer.
+Either you come with us or you stay here.
+It was fast, cheap, and reliable.
+The menu offered soup, salad, pasta, fish, and dessert.
+Monday, Tuesday, Wednesday, Thursday, and Friday are weekdays.
+He was tall, dark, and handsome.
+We visited London, Paris, Rome, and Berlin last summer.
+First, preheat the oven. Second, mix the ingredients. Third, bake for thirty minutes.
+One, two, three, four, five.
+The box contained pens, pencils, erasers, rulers, and a small notebook.
+Bring your passport, your ticket, and a warm jacket.
+Apples, bananas, and cherries, all of them were delicious.
+He likes reading, writing, and arithmetic, but he hates history.
+Tom, Dick, and Harry went fishing.
+## --- long sentences with commas
+Although it was raining heavily, they decided to go for a walk in the park, hoping the weather would improve.
+When the sun finally came out, the children ran outside, laughing and shouting, and played until dinner time.
+The report, which was published last week, contains several recommendations that the committee will discuss tomorrow.
+If you have any questions about the assignment, please contact me by email, and I will respond as soon as possible.
+The quick brown fox jumps over the lazy dog, and the lazy dog, not amused, barks loudly at the quick brown fox, which runs away into the forest where nobody can find it.
+After years of hard work, countless setbacks, and many sleepless nights, she finally completed her doctoral thesis.
+The city, known for its beautiful architecture and vibrant culture, attracts millions of tourists every year.
+He opened the door, looked around the empty room, sighed deeply, and sat down in the old chair by the window.
+Despite the warnings from the weather service, many people went to the beach, where the waves were dangerously high.
+My brother, who lives in Seattle, works as a software engineer at a large technology company.
+However, the results were not as good as we had expected.
+Nevertheless, we decided to continue with the original plan.
+In conclusion, the evidence strongly supports our hypothesis.
+Unfortunately, the store was closed when we arrived.
+Yes, I will be there at noon.
+No, thank you, I have already eaten.
+Well, that is an interesting question.
+Oh, I see what you mean now.
+By the way, did you remember to lock the door?
+To be, or not to be: that is the question.
+He was tired; nevertheless, he kept working.
+The list includes: pens, paper, and ink.
+There are three options: stay, leave, or wait.
+She had one goal; to win the championship.
+The plan was simple: arrive early, work hard, and leave on time.
+## --- quotes and parentheses
+He said "this is a very long quotation right here" and left.
+"Hello," she said, "how are you?"
+He shouted, "Stop!" and ran away.
+She asked: "Is this the right way to the station?"
+The word "ain't" is informal.
+'Single quotes' are also common.
+They called it "the best restaurant in the whole city" in the review.
+"I think," he said slowly, "that we should wait until tomorrow morning."
+The sign said "no parking between eight and six on weekdays" in big red letters.
+My favorite book is "The Old Man and the Sea" by Ernest Hemingway.
+The results (see the table below for details) were surprising.
+The price is five dollars (plus tax).
+The meeting (which lasted three hours) ended without a decision.
+Our new manager (a former teacher from Boston) starts on Monday.
+He finally arrived (two hours late, as usual) and apologized to everyone.
+[Bracketed text] and {curly braces} appear here.
+The dash — like this one — is called an em dash.
+Well -- I never expected that.
+Wait... what did you say?
+“Smart quotes” are used here, and “another quoted phrase with many words” follows.
+She whispered, “We have to leave before the guards come back,” and opened the gate.
+It’s a nice day, isn’t it?
+The teacher (who had a loud voice) said "please sit down and open your books" to the class.
+## --- numbers, dates, times, money
+I have 3 apples and 12 oranges.
+There are 1,234,567 people in the city.
+The answer is 42.
+Pi is approximately 3.14159.
+The temperature dropped to -5 degrees.
+About 75% of the students passed the exam.
+The score was 3-2 in overtime.
+She was born in 1985 and her brother in 1990.
+The meeting is on 12/25/2013 at 3:45 pm.
+She was born on January 5, 1990.
+The deadline is March 3rd.
+We will meet on 2024-06-15.
+Call me at 9:00 AM tomorrow.
+The train leaves at 14:30.
+The ticket costs $25.
+I paid $1,234.56 for the laptop.
+The coffee was $3.50 and the muffin was $2.
+The company earned $3.5 million last quarter.
+Call 425-555-1234 for more information.
+My number is (206) 555-0199.
+I live at 123 Main St., Springfield, IL 62704.
+Send it to 1 Microsoft Way, Redmond, WA 98052.
+Visit www.microsoft.com for details.
+Send an email to john.doe@example.com.
+The file is 256 MB and the disk has 2 TB free.
+Room 101 is on the first floor.
+The war lasted from 1939 to 1945.
+He ran 26.2 miles in 3 hours and 15 minutes.
+The recipe calls for 2 1/2 cups of flour.
+Version 2.0 was released on 1/15/2021.
+World War II ended in 1945.
+Queen Elizabeth II reigned for 70 years.
+Take 2 tablets every 4-6 hours.
+The IP address is 192.168.1.1.
+The ISBN is 978-3-16-148410-0.
+The sequence is 1, 2, 3, 4, 5.
+Pages 10-20 are missing.
+The concert starts at 8pm on Friday, Oct. 12.
+Monday, June 1st, 2020 was a sunny day.
+The 21st century began in 2001.
+## --- abbreviations, acronyms, misc
+The FBI and the CIA are government agencies.
+NASA launched a new satellite.
+Dr. Smith lives on Elm St. near the hospital.
+Mr. and Mrs. Jones went to see Prof. Brown.
+The U.S. economy grew last year.
+He has a Ph.D. in physics from MIT.
+Please RSVP by Friday.
+I need a PDF of the report ASAP.
+THIS IS A SENTENCE IN ALL CAPITAL LETTERS.
+iPhone and eBay are brand names.
+The mother-in-law arrived at noon.
+He is a well-known author and a part-time teacher.
+The McDonald's on MacArthur Blvd. is open.
+I'm going to the store; do you need anything?
+She's been there, done that.
+We'll see what happens.
+Let's go!
+The kids' toys were everywhere.
+Rock 'n' roll never dies.
+The glorptastic snerble wandered through the flimmerwood.
+Antidisestablishmentarianism is a long word.
+The superconductivity experiment was unbelievably successful.
+Use the # key to enter the command.
+The temperature is 25°C today.
+50% off everything @ the store!
+2 + 2 = 4
+The answer is yes/no.
+## --- multiple sentences per line
+This is the first sentence. This is the second sentence. And this is the third one.
+He came. He saw. He conquered.
+Is this the end? I hope not! Let's continue.
+She said no. He said yes. They argued for hours.
+Mr. Smith went to Washington. He met Dr. Jones there.
+I saw him at 5 p.m. He was waiting for the bus.
+The sun rose. The birds sang. A new day had begun.
+Wait. Listen. Do you hear that?
+Good morning! How did you sleep? I hope you are well rested.
+The first chapter is short. The second chapter, however, is very long and full of details.
+## --- short utterances
+Hello world
+hello
+a
+I
+Yes.
+No!
+OK?
+Sure, why not.
+The end.
+Thank you very much!
+Good night.
+Hi there.
+Absolutely.
+Hmm... I'm not sure.
+Ladies and gentlemen, welcome aboard flight 123 to Seattle.
+## --- SAPI XML: silence, emph
+<silence msec="500"/>Wait <emph>now</emph> please.
+Wait <silence msec="500"/> for it.
+First part <silence msec="200"/> second part <silence msec="400"/> third part.
+<silence msec="300"/>Silence first, then text.
+<silence msec="1000"/>
+Hello <silence msec="50"/> world.
+The end is near.<silence msec="800"/>
+One, <silence msec="250"/> two, <silence msec="250"/> three.
+This is <emph>very</emph> important.
+<emph>Stop</emph> right there!
+<emph>Very</emph> <emph>important</emph> <emph>words</emph>.
+I did <emph>not</emph> say that, <emph>she</emph> did.
+Is <emph>this</emph> your car?
+<emph>Emphasis across. Two sentences.</emph>
+Please <emph>do not</emph> touch the <emph>red</emph> button.
+The <emph>first</emph> word, the <emph>second</emph> word, and the <emph>third</emph> word.
+<emph>Where</emph> are you going?
+It was <emph>absolutely</emph> fantastic!
+<emph>Loud</emph> and clear.
+We need <emph>more</emph> time, <silence msec="300"/> not less.
+## --- SAPI XML: pitch, rate, volume
+<pitch middle="10">This is higher.</pitch> <pitch middle="-10">This is lower.</pitch>
+<rate speed="5">Speaking faster now.</rate> <rate speed="-5">Speaking slower now.</rate>
+<volume level="50">This is quieter.</volume> And this is normal.
+<pitch absmiddle="5"><rate absspeed="3">Combined changes.</rate></pitch>
+<volume level="80"><emph>Loud</emph> and clear.</volume>
+<rate absspeed="-3">Slow and steady wins the race.</rate>
+<rate speed="-10">Very slow speech here.</rate>
+<rate speed="10">Very fast speech here, isn't it?</rate>
+<volume level="0">Silent volume.</volume>
+<volume level="100">Full volume.</volume>
+<pitch middle="-5" range="5">Pitch and range.</pitch>
+<pitch middle="20">Very high pitch.</pitch> <pitch middle="-20">Very low pitch.</pitch>
+Normal, <rate speed="4">then faster,</rate> then normal again.
+<volume level="30">Quiet start,</volume> loud end.
+<pitch middle="3">A slightly raised question?</pitch>
+The <rate speed="-6">slow</rate> <pitch middle="8">high</pitch> <volume level="60">soft</volume> words.
+<rate absspeed="7"><pitch absmiddle="-4">Fast and low together, with a comma.</pitch></rate>
+## --- SAPI XML: bookmarks and mixed
+Here is a <bookmark mark="one"/> bookmark and another <bookmark mark="two"/> one.
+<bookmark mark="start"/>Beginning of the text.<bookmark mark="end"/>
+<bookmark mark="b0"/>Bookmark first. Then a second sentence.<bookmark mark="b1"/>
+One <bookmark mark="m1"/> two <bookmark mark="m2"/> three <bookmark mark="m3"/> four.
+<bookmark mark="x"/><silence msec="200"/>After bookmark and silence.
+<spell>ABC</spell> and <emph>really</emph> <silence msec="300"/> ok.
+My PIN is <spell>4719</spell>.
+The code is <spell>X7Y</spell> and the key is <spell>abc123</spell>.
+<spell>Hello world</spell>
+Say <pron sym="t ow 1 m aa 2 t ow">tomato</pron> please.
+<pron sym="h eh 1 l ow"/> there.
+<partofsp part="noun">record</partofsp> the <partofsp part="verb">record</partofsp>.
+<context id="date_mdy">12/25/2013</context> is a holiday.
+<context id="phone_number">4255551234</context> is my number.
+Numbers: <context id="number_digit">42</context> and <context id="number_cardinal">42</context>.
+Text with an &amp; ampersand and &lt;brackets&gt;.
+<sapi>Line one.<silence msec="100"/>Line two.</sapi>
+<sapi>This is <emph>very</emph> important, <bookmark mark="k"/> isn't it?</sapi>
+<rate speed="3">Rate, <emph>emphasis</emph>, and <silence msec="150"/> silence.</rate>
+<volume level="70">A list: apples, pears, <emph>plums</emph>, and figs.</volume>
+He said <emph>"never again"</emph> and walked away.
+<pitch middle="5">"Quoted text inside pitch," she said.</pitch>
+## --- more prose (variety of POS / lengths)
+The committee's decision was announced on the radio yesterday afternoon.
+Several students in the class had never seen snow before.
+The pilot announced that we would be landing shortly.
+Honesty is the best policy.
+Actions speak louder than words.
+Every cloud has a silver lining.
+The early bird catches the worm, but the second mouse gets the cheese.
+After dinner, we watched a movie and went to bed.
+The museum is open from Monday through Friday.
+A good friend is hard to find.
+The river flows quietly through the valley toward the sea.
+Nobody expected the small team to win the national championship.
+The package arrived damaged, so we sent it back.
+My sister and I are planning a trip to Japan next spring.
+The painter mixed blue and yellow to make green.
+It is important to drink plenty of water during hot weather.
+He apologized for being late and promised it would not happen again.
+Photographs of the event were published in several newspapers.
+The heavy rain caused flooding in low lying areas of the town.
+Would you mind closing the window, please?
+The documentary explores the history of ancient Egypt.
+She carefully folded the letter and placed it in an envelope.
+The wind howled through the trees all night long.
+Our flight was cancelled, so we stayed at a hotel near the airport.
+The chef recommended the grilled salmon with lemon butter sauce.
+Learning a new language takes time, patience, and practice.
+The little boy pressed his nose against the toy store window.
+Please remember to turn off the lights when you leave the room.
+The volunteers cleaned up the beach after the festival.
+He could hardly believe his eyes when he saw the results.
+The ancient castle stood on a hill overlooking the village.
+They argued about politics until late in the evening.
+The new bridge will connect the two sides of the river.
+Winter is coming, and the days are getting shorter.
+Knowledge is power, but enthusiasm pulls the switch.
+Some people prefer coffee, while others prefer tea.
+The teacher asked the students to open their books to chapter seven.
+I read the book yesterday, and I will read it again tomorrow.
+He will lead the team to victory.
+They live in a small house near the river.
+The present was wrapped in shiny paper.
+The wind was blowing from the north.
+Please close the door.
+We need to object to this proposal.
+It is a complex problem with no easy answer.
+There is no use in complaining.
+The soldier decided to desert his dessert in the desert.
+The firefighter climbed the ladder.
+We bought a new dishwasher and a toothbrush.
+She is a workaholic and a chocoholic.
+The overpriced sandwich was underwhelming.
+Brillig and slithy toves did gyre and gimble in the wabe.
+The vorpal blade went snicker-snack.
+Hmm, let me think about it for a moment.
+Excuse me, is anybody sitting here?
+Ouch! That really hurt.
+Once upon a time, in a land far away, there lived a wise old king.
+The end of the story was happy, sad, and surprising all at once.
+Can you hear me now? Good.
+I think, therefore I am.
+Life is what happens when you are busy making other plans.
+All that glitters is not gold.
+Two roads diverged in a yellow wood, and I took the one less traveled by.
+Ask not what your country can do for you; ask what you can do for your country.
+The only thing we have to fear is fear itself.
+Four score and seven years ago our fathers brought forth on this continent a new nation.
+We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard.
+It always seems impossible until it's done.
+Do or do not, there is no try.
+May the force be with you.
+Houston, we have a problem.
+Elementary, my dear Watson.
+Here's looking at you, kid.
+Frankly, my dear, I don't give a damn.
+You can't handle the truth!
+I'll be back.
+There's no place like home.
+Toto, I've got a feeling we're not in Kansas anymore.
+To infinity and beyond!
+Why so serious?
+Just keep swimming.
+With great power comes great responsibility.
+Winter is coming.
+The truth is out there.
+Resistance is futile.
+Live long and prosper.
+Beam me up, Scotty.
+Make it so.
+Engage!

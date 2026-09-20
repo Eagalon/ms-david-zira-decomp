@@ -1,0 +1,395 @@
+## zf1 text-frontend corpus (one Speak call per line; "##" lines are comments)
+## --- prose
+Hello, my name is Microsoft David. The quick brown fox jumps over the lazy dog.
+It was the best of times, it was the worst of times.
+The committee met on Tuesday to discuss the budget for next year.
+She sells seashells by the seashore.
+A journey of a thousand miles begins with a single step.
+To be, or not to be: that is the question.
+We hold these truths to be self-evident, that all men are created equal.
+In the beginning God created the heaven and the earth.
+The weather today will be partly cloudy with a chance of rain in the afternoon.
+Please remember to turn off the lights when you leave the room.
+My grandmother used to bake bread every Sunday morning.
+The children played happily in the park until sunset.
+Although it was raining, they decided to go for a walk.
+Scientists have discovered a new species of frog in the Amazon rainforest.
+Can you tell me how to get to the train station?
+What a beautiful day it is!
+Why did the chicken cross the road?
+I don't know what you're talking about, but I'm sure it's important.
+He said that he'd be here by noon, but he hasn't arrived yet.
+They've been working on this project for months.
+The old man and the sea is a novel by Ernest Hemingway.
+Birds of a feather flock together.
+Actions speak louder than words.
+Every cloud has a silver lining.
+The early bird catches the worm, but the second mouse gets the cheese.
+After dinner, we watched a movie and went to bed.
+The museum is open from Monday through Friday.
+Would you like a cup of tea or coffee?
+Our flight was delayed because of the storm.
+The teacher asked the students to open their books to chapter seven.
+## --- homographs
+I read the book yesterday, and I will read it again tomorrow.
+Please read the instructions before you begin.
+She has read every book in the library.
+The pipes were made of lead.
+He will lead the team to victory.
+Lead the way, and we will follow.
+They live in a small house near the river.
+The band played a live concert last night.
+We watched the game live on television.
+Please record your answers on the sheet.
+She broke the world record in the hundred meter dash.
+The record was played on an old turntable.
+I would like to present my findings to the board.
+The present was wrapped in shiny paper.
+All students were present at the meeting.
+Wind the clock before you go to sleep.
+The wind was blowing from the north.
+A tear rolled down her cheek.
+Don't tear the paper.
+Please close the door.
+The store is close to my house.
+We need to object to this proposal.
+The object on the table is a vase.
+What is the subject of your essay?
+They will subject the samples to heat.
+The contract was signed yesterday.
+Muscles contract when you exercise.
+The conflict lasted many years.
+These results conflict with earlier findings.
+The address is written on the envelope.
+The president will address the nation tonight.
+It is a complex problem with no easy answer.
+The apartment complex has a swimming pool.
+We use this tool every day.
+There is no use in complaining.
+The bass player tuned his bass guitar while we caught a bass.
+The dove dove into the bushes.
+I object to the object.
+The farm was used to produce produce.
+The soldier decided to desert his dessert in the desert.
+The nurse wound the bandage around the wound.
+There was a row among the oarsmen about how to row.
+They were too close to the door to close it.
+We must polish the Polish furniture.
+The insurance was invalid for the invalid.
+She did not minute the minute details.
+The bandage was wound around the wound.
+UPS delivered the package this morning.
+I will estimate the estimate later.
+Does he like does?
+## --- numbers
+I have 3 apples and 12 oranges.
+There are 1,234,567 people in the city.
+The answer is 42.
+Pi is approximately 3.14159.
+The temperature dropped to -5 degrees.
+He finished in 1st place, she was 2nd, and they were 3rd.
+The 21st century began in 2001.
+About 75% of the students passed the exam.
+Mix 1/2 cup of sugar with 3/4 cup of flour.
+The score was 3-2 in overtime.
+Chapter 11 starts on page 256.
+The population grew by 0.5 percent.
+I counted 1000000 grains of sand.
+The ratio is 16:9 for widescreen displays.
+She was born in 1985 and her brother in 1990.
+The model number is 7G4-XR9.
+Add 2 + 2 and you get 4.
+Multiply 6 x 7 to get 42.
+It weighs 5 kg and measures 30 cm.
+The car goes 60 mph on the highway.
+The file is 256 MB and the disk has 2 TB free.
+The 1990s were a decade of change.
+Room 101 is on the first floor.
+He scored 99 out of 100.
+The year 1066 is famous in English history.
+## --- dates and times
+The meeting is on 12/25/2013 at 3:45 pm.
+She was born on January 5, 1990.
+The deadline is March 3rd.
+We will meet on 2024-06-15.
+The event happened on 7/4/1776.
+Call me at 9:00 AM tomorrow.
+The train leaves at 14:30.
+The store closes at 10 p.m. on weekdays.
+It's 5 o'clock somewhere.
+The concert starts at 8pm on Friday, Oct. 12.
+Monday, June 1st, 2020 was a sunny day.
+The party is on Sat, Dec 31.
+I woke up at 6:15 this morning.
+The flight departs at 11:59 PM.
+The war lasted from 1939 to 1945.
+## --- currency
+The ticket costs $25.
+I paid $1,234.56 for the laptop.
+The coffee was $3.50 and the muffin was $2.
+He owes me 5 dollars and 20 cents.
+The price rose to €100 last week.
+The house sold for £250,000.
+It cost ¥5000 in Tokyo.
+The company earned $3.5 million last quarter.
+A penny is worth 1¢.
+The budget is $2.7 billion.
+## --- phone numbers
+Call 425-555-1234 for more information.
+My number is (206) 555-0199.
+Dial 1-800-555-0123 toll free.
+The emergency number is 911.
+You can reach him at +1 425 555 0100.
+Please call 555-1212 after five.
+## --- addresses
+I live at 123 Main St., Springfield, IL 62704.
+Send it to 1 Microsoft Way, Redmond, WA 98052.
+The office is at 456 Elm Avenue, Suite 200.
+Turn left on 5th Ave. and then right on Broadway.
+The zip code is 10001.
+Their store is on N. Michigan Ave. in Chicago.
+## --- URLs and emails
+Visit www.microsoft.com for details.
+Go to https://www.example.com/path/index.html now.
+Send an email to john.doe@example.com.
+My address is support@contoso.org, write any time.
+Check out http://bing.com.
+The file is at C:\Windows\System32\drivers.
+Download it from ftp.example.net today.
+## --- acronyms and abbreviations
+The FBI and the CIA are government agencies.
+NASA launched a new satellite.
+He works for IBM in the USA.
+The CEO of the company resigned.
+Dr. Smith lives on Elm St. near the hospital.
+Mr. and Mrs. Jones went to see Prof. Brown.
+The U.S. economy grew last year.
+Please RSVP by Friday.
+The DVD player is broken.
+I need a PDF of the report ASAP.
+Use HTML and CSS to build the web page.
+He has a Ph.D. in physics from MIT.
+The NATO summit was held in Brussels.
+The etc. at the end of the list is annoying.
+Gen. Patton and Lt. Col. Smith arrived.
+The St. Louis Cardinals won the game.
+Approx. 50 people attended, i.e. more than expected.
+See Fig. 3 and Table 2 for details.
+The meeting is at 10 a.m. sharp.
+Mt. Everest is the tallest mountain.
+The TV show airs on NBC.
+He said OK and left.
+The WHO issued a warning.
+The UN and the EU signed an agreement.
+My PC runs Windows.
+Jr. and Sr. are common suffixes.
+vs. is short for versus.
+## --- punctuation and quotes
+"Hello," she said, "how are you?"
+He shouted, "Stop!" and ran away.
+'Single quotes' are also common.
+The word "ain't" is informal.
+She asked: "Is this the right way?"
+Wait... what did you say?
+Well -- I never expected that.
+The results (see below) were surprising.
+Apples, oranges, bananas, and grapes are fruits.
+He was tired; nevertheless, he kept working.
+Really?! You can't be serious.
+The list includes: pens, paper, and ink.
+“Smart quotes” are used here.
+It’s a nice day, isn’t it?
+[Bracketed text] and {curly braces} appear here.
+The dash — like this one — is called an em dash.
+One, two, three, four, five.
+Is it raining? No, it's snowing!
+Hmm... I'm not sure.
+The price is $5 (plus tax).
+## --- unknown words (LTS)
+The glorptastic snerble wandered through the flimmerwood.
+Zyxworth and Quandrell are fictional names.
+The blorfing of the grunkles was unexpected.
+She named her cat Mistoffelees.
+The frabjous day arrived with a callooh and a callay.
+Xylophonic transmogrification is rarely observed.
+The plumbus was made of dinglebop and schleem.
+Brillig and slithy toves did gyre and gimble in the wabe.
+We visited Llanfairpwllgwyngyll in Wales.
+The vorpal blade went snicker-snack.
+## --- compounds
+The firefighter climbed the ladder.
+We bought a new dishwasher and a toothbrush.
+The snowmobile raced across the frozen lake.
+My grandfather was a shipbuilder.
+The skateboarder performed an amazing trick.
+He is a well-known author and a part-time teacher.
+The heartbreaking story moved everyone.
+She is a workaholic and a chocoholic.
+The overpriced sandwich was underwhelming.
+The rainbowfish swam past the lighthouse keeper.
+The bookshelfmaker sold wooden bookshelves.
+The superconductivity experiment was unbelievably successful.
+Antidisestablishmentarianism is a long word.
+The mother-in-law arrived at noon.
+## --- misc symbols
+The ratio of A to B is 3 & 4.
+Use the # key to enter the command.
+The temperature is 25°C today.
+Press * to repeat this message.
+50% off everything @ the store!
+2 + 2 = 4
+The formula is E = mc2.
+Email me @ noon.
+The answer is yes/no.
+Price: $10 ~ $20.
+## --- spelled out, all caps, mixed case
+THIS IS A SENTENCE IN ALL CAPITAL LETTERS.
+iPhone and eBay are brand names.
+The McDonald's on MacArthur Blvd. is open.
+JavaScript and PowerPoint are software products.
+The word is spelled C-A-T.
+## --- long sentences and multiple sentences
+This is the first sentence. This is the second sentence. And this is the third one.
+He came. He saw. He conquered.
+Is this the end? I hope not! Let's continue.
+The quick brown fox jumps over the lazy dog, and the lazy dog, not amused, barks loudly at the quick brown fox, which runs away into the forest where it hides behind a large oak tree until the dog finally gives up and goes back home to sleep.
+First, preheat the oven. Second, mix the ingredients. Third, bake for 30 minutes.
+She said no. He said yes. They argued for hours.
+Mr. Smith went to Washington. He met Dr. Jones there.
+The U.S.A. is a large country. It has fifty states.
+I saw him at 5 p.m. He was waiting for the bus.
+## --- parallel structures
+We need eggs, milk, butter, and flour.
+You can choose red or blue or green.
+Neither he nor she knew the answer.
+Either you come with us or you stay here.
+The dog, the cat, and the bird all live together.
+It was fast, cheap, and reliable.
+## --- SAPI XML
+<spell>ABC</spell> and <emph>really</emph> <silence msec="300"/> ok.
+<spell>Hello world</spell>
+My PIN is <spell>4719</spell>.
+This is <emph>very</emph> important.
+Wait <silence msec="500"/> for it.
+<pitch middle="10">This is higher.</pitch> <pitch middle="-10">This is lower.</pitch>
+<rate speed="5">Speaking faster now.</rate> <rate speed="-5">Speaking slower now.</rate>
+<volume level="50">This is quieter.</volume> And this is normal.
+Here is a <bookmark mark="one"/> bookmark and another <bookmark mark="two"/> one.
+<context id="date_mdy">12/25/2013</context>
+<context id="date_dmy">25/12/2013</context>
+<context id="time">3:45</context>
+<context id="phone_number">4255551234</context>
+<context id="number_cardinal">1234</context>
+<context id="number_digit">1234</context>
+<context id="address">123 Main Street</context>
+<pron sym="h eh 1 l ow"/> there.
+Say <pron sym="t ow 1 m aa 2 t ow">tomato</pron> please.
+<partofsp part="noun">record</partofsp> the <partofsp part="verb">record</partofsp>.
+<emph>Stop</emph> right there!
+<pitch absmiddle="5"><rate absspeed="3">Combined changes.</rate></pitch>
+<silence msec="1000"/>
+<volume level="80"><emph>Loud</emph> and clear.</volume>
+<spell>R2-D2</spell> is a robot.
+The code is <spell>X7Y</spell> and the key is <spell>abc123</spell>.
+Numbers: <context id="number_digit">42</context> and <context id="number_cardinal">42</context>.
+<bookmark mark="start"/>Beginning of the text.<bookmark mark="end"/>
+Text with an &amp; ampersand and &lt;brackets&gt;.
+<rate absspeed="-3">Slow and steady wins the race.</rate>
+<emph>Very</emph> <emph>important</emph> <emph>words</emph>.
+First part <silence msec="200"/> second part <silence msec="400"/> third part.
+## --- more varied lines
+Good morning, everyone.
+Thank you very much!
+See you later, alligator.
+Happy birthday to you.
+Ladies and gentlemen, welcome aboard flight 123 to Seattle.
+The quick brown fox jumped over 2 lazy dogs at 3:00.
+Version 2.0 was released on 1/15/2021.
+He ran 26.2 miles in 3 hours and 15 minutes.
+The recipe calls for 2 1/2 cups of flour.
+Temperatures reached 104°F in Phoenix.
+Our goal is to raise $50K by June.
+The 100m sprint record is 9.58 seconds.
+Interstate I-95 runs along the east coast.
+The Boeing 747 is a large aircraft.
+The PS5 and the Xbox are game consoles.
+Windows 10 and Windows 11 are operating systems.
+World War II ended in 1945.
+King Henry VIII had six wives.
+Louis XIV was king of France.
+Pope John Paul II visited Poland.
+Chapter IV is about the war.
+Queen Elizabeth II reigned for 70 years.
+I'm going to the store; do you need anything?
+She's been there, done that.
+We'll see what happens.
+They'd rather stay home.
+You shouldn't have done that.
+It'll be fine.
+Who's there?
+Let's go!
+The kids' toys were everywhere.
+James's car is red.
+The boys' locker room is closed.
+It's its own reward.
+Rock 'n' roll never dies.
+'Twas the night before Christmas.
+The '80s were great.
+I've got 99 problems.
+He's 6'2" tall.
+Take 2 tablets every 4-6 hours.
+The game ended 21-17.
+Pages 10-20 are missing.
+The years 2010-2015 were difficult.
+It happened between 1:00 and 2:00.
+The results were 50/50.
+Only 1 in 10 people knew the answer.
+The company has 10,000+ employees.
+The sequence is 1, 2, 3, 4, 5.
+The code 0x1F is hexadecimal.
+The IP address is 192.168.1.1.
+The password is abc123XYZ.
+Call extension 4521.
+Flight UA 857 departs from gate B12.
+The serial number is SN-2023-0045.
+The ISBN is 978-3-16-148410-0.
+Hello world
+hello
+a
+I
+.
+?!
+...
+Yes.
+No!
+OK?
+Sure, why not.
+The end.
+## --- SAPI XML (lines starting with a tag, so SAPI parses them)
+<sapi>My PIN is <spell>4719</spell>.</sapi>
+<sapi>This is <emph>very</emph> important.</sapi>
+<sapi>Wait <silence msec="500"/> for it.</sapi>
+<sapi>Here is a <bookmark mark="one"/> bookmark and another <bookmark mark="two"/> one.</sapi>
+<sapi>Say <pron sym="t ow 1 m aa 2 t ow">tomato</pron> please.</sapi>
+<sapi>Numbers: <context id="number_digit">42</context> and <context id="number_cardinal">42</context>.</sapi>
+<sapi>Text with an &amp; ampersand and &lt;brackets&gt;.</sapi>
+<sapi>First part <silence msec="200"/> second part <silence msec="400"/> third part.</sapi>
+<silence msec="300"/>Silence first, then text.
+<bookmark mark="b0"/>Bookmark first. Then a second sentence.<bookmark mark="b1"/>
+<partofsp part="modifier">present</partofsp> <partofsp part="function">for</partofsp> <partofsp part="interjection">wow</partofsp> <partofsp part="unknown">lead</partofsp>.
+<spell>Hello, World! 123 ?</spell>
+<spell>a-b_c d.e</spell> done.
+<rate speed="-10">Very slow speech here.</rate>
+<volume level="0">Silent volume.</volume>
+<pitch middle="-5" range="5">Pitch and range.</pitch>
+<emph>Emphasis across. Two sentences.</emph>
+<context id="date_ymd">2013-12-25</context> and <context id="time">12:30</context>.
+<context id="name">John Smith</context> met <context id="address">1 Microsoft Way, Redmond</context>.
+<sapi>Line one.<silence msec="100"/>Line two.</sapi>
+<lang langid="409">Lang group one.</lang> <lang langid="409">Lang group two.</lang> After.
+<lang langid="409">Language tag text.</lang> After lang.
+<sapi>*Star* emphasis and * lone star and 2*3.</sapi>
+<pron sym="h eh 1 l ow"/><pron sym="w er 1 l d"/>
+<sapi>A &#x41; hex and &#65; decimal reference.</sapi>
+<sapi>  Leading and trailing spaces.   </sapi>
+<sapi>Tab	separated	words.</sapi>

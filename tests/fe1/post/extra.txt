@@ -1,0 +1,50 @@
+Is it red, green, or blue?
+Do you want tea or coffee?
+Who are you?
+Where is the station, and how do I get there?
+How's it going?
+How'd you do that?
+And why would you do that?
+But what about the others?
+In which city do you live?
+He asked, "Why?"
+She said "yes" and "no" and "maybe".
+They bought apples, pears, and plums, and then they left.
+We need bread, milk and eggs.
+Red, white, or blue?
+Either you or me.
+Neither this nor that.
+I like cats and dogs.
+Tom, Dick and Harry went to the fair, the market, and the zoo.
+He ran, jumped, and swam.
+The quick, clever, and brave fox escaped.
+One? Two! Three.
+Really?
+Wow!
+Hmm...
+Stop... Go!
+What? No way!
+The (big) red [small] {green} box.
+"Quoted "nested" text" here.
+'Single' and "double" quotes.
+He said, 'I'll go,' and left.
+It costs $5, $10, or $20.
+Call me at 555-1234, or email me.
+First - second - third.
+A – B – C.
+Well - ok.
+x - y
+The end :
+Items: a, b; c, d.
+Yes, sir.
+Okay?
+Is that all, or is there more?
+Can you, will you, or must you?
+Which one, this or that?
+Why not?
+How many?
+Whose book is this?
+Whom did you see?
+What time is it?
+When did it happen, and where?
+So, what now?

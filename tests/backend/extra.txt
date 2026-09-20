@@ -1,0 +1,26 @@
+# Held-out sentences (not used while developing): python run.py <voice> --corpus extra.txt
+The committee postponed its decision until the auditors had finished reviewing the accounts.
+Could you please send me the report by Friday?
+I'm not sure whether the museum opens at nine or at ten.
+On March 3rd, 2021, the company reported revenue of $4.5 million.
+Wow! That was the loudest thunderstorm I've ever heard.
+Her flight, which was scheduled for noon, didn't leave until after midnight.
+The recipe needs 250 grams of flour, 3 eggs, and a teaspoon of vanilla.
+Why would anyone climb a mountain in the middle of winter?
+Please press 1 for sales, 2 for support, or stay on the line.
+The quick-thinking lifeguard pulled the swimmer back to shore.
+Is the library open on Sundays?
+They arrived early, set up the chairs, and waited for the guests.
+Dr. Smith will see you now.
+The temperature is expected to reach 38 degrees this afternoon.
+Although it was raining, the children insisted on going to the park.
+What a wonderful surprise!
+Version 2.4 fixes several bugs and improves performance.
+She whispered, "Don't tell anyone," and walked away.
+Our team finished third out of twenty-five.
+Remember to back up your files regularly.
+<rate absspeed="-2">Slightly slower than usual.</rate> Then back to normal.
+<pitch absmiddle="-3">A lower voice for this part,</pitch> and the normal voice here.
+<volume level="80">Somewhat quieter.</volume> <volume level="100">Full volume again.</volume>
+Take a deep breath. <silence msec="300"/> Now relax.
+The meeting is in room 4B on the 12th floor.

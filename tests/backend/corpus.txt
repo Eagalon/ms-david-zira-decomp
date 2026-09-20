@@ -1,0 +1,117 @@
+# Backend corpus: one item per line. Optional prefixes: @rate=N (ISpVoice::SetRate), @vol=N (SetVolume).
+# Lines may contain SAPI XML. Blank lines and lines starting with '#' are ignored.
+Hello world.
+The quick brown fox jumps over the lazy dog.
+She sells seashells by the seashore.
+A journey of a thousand miles begins with a single step.
+The weather today is mild, with a light breeze from the west.
+Please remember to lock the door when you leave.
+My grandmother baked bread every Sunday morning.
+The library closes early on holidays.
+He walked slowly along the empty beach at sunset.
+Computers have changed the way we communicate.
+The committee will meet again next week to review the proposal.
+I would like a cup of tea with milk and no sugar.
+The train to Boston departs from platform nine.
+Rivers carve valleys over millions of years.
+Our neighbors adopted a small gray kitten.
+The museum features paintings from the Renaissance.
+Turn left at the second traffic light, then continue straight ahead.
+Good morning, everyone.
+Thank you for calling. Your call is important to us.
+The children played in the garden until dinner was ready.
+Scientists discovered a new species of frog in the rainforest.
+It was the best of times, it was the worst of times.
+Water boils at one hundred degrees Celsius at sea level.
+The orchestra tuned their instruments before the concert.
+Reading books expands your vocabulary.
+The old lighthouse still guides ships through the fog.
+Fresh vegetables are available at the farmers market.
+Our flight was delayed because of the storm.
+She plays the violin beautifully.
+The printer is out of paper again.
+Mountains rise above the clouds in the distance.
+Please enter your password and press enter.
+The meeting has been moved to Thursday afternoon.
+Birds migrate south for the winter.
+This software update improves battery life.
+The recipe calls for two eggs and a pinch of salt.
+He forgot his umbrella at the restaurant.
+The stars were bright over the quiet village.
+A gentle rain fell throughout the night.
+They built a sandcastle near the water.
+Is it raining?
+Where did you put the keys?
+Can you help me with this problem?
+What time does the store open tomorrow?
+Would you like some coffee?
+Have you ever been to Paris?
+Why is the sky blue?
+Do you know the way to the station?
+Is this seat taken?
+How many people are coming to the party?
+Did you finish your homework?
+Are we there yet?
+Who wrote this letter?
+Which one do you prefer, the red or the blue?
+Will it be sunny this weekend?
+Watch out!
+That is amazing!
+We won the championship!
+Stop right there!
+Happy birthday!
+What a beautiful day!
+I can't believe it!
+Congratulations on your new job!
+Help!
+Wow, look at that!
+The total comes to forty two dollars and fifteen cents.
+Call me at 555 1234.
+The meeting starts at 3:30 PM.
+She was born on July 4, 1976.
+There are 365 days in a year.
+The temperature dropped to minus 12 degrees.
+Chapter 7 begins on page 243.
+He scored 98 percent on the exam.
+The population is about 8 billion people.
+Flight 1729 arrives at gate 22.
+Pi is approximately 3.14159.
+The address is 1600 Pennsylvania Avenue.
+I have 3 cats, 2 dogs and 1 parrot.
+The price increased by 25% last year.
+It happened in 2008.
+Although the forecast predicted clear skies for the entire weekend, a sudden storm swept through the valley on Saturday afternoon, forcing hikers to seek shelter in the old cabins along the trail.
+When the committee finally announced its decision, after months of deliberation and countless revisions, most members of the community were relieved that the historic building would be preserved.
+The development team spent several weeks investigating the intermittent failure, which only appeared under heavy load on machines with more than sixteen processor cores.
+In the early morning light, the fishermen prepared their nets, checked the engines of their small boats, and set out across the calm gray water toward the distant fishing grounds.
+Despite the challenges of the long journey, including delayed trains, lost luggage, and an unexpected snowstorm, the travelers arrived in good spirits and immediately went to the festival.
+She explained that the new policy would affect everyone in the department, from the most senior managers to the newest interns, and asked for patience during the transition.
+The ancient manuscript, discovered in a monastery library in the mountains, contains detailed drawings of plants, animals, and astronomical observations made centuries ago.
+If you have any questions about your account, your order, or our return policy, please contact our customer service team, which is available twenty four hours a day.
+First, preheat the oven. Second, mix the flour and sugar. Third, add the eggs and stir well.
+One, two, three, four, five, six, seven, eight, nine, ten.
+<rate absspeed="5">This sentence is spoken quickly.</rate>
+<rate absspeed="-5">This sentence is spoken slowly.</rate>
+<rate speed="3">Slightly faster speech here.</rate>
+<rate absspeed="10">The fastest possible speaking rate.</rate>
+<rate absspeed="-10">The slowest possible speaking rate.</rate>
+<pitch absmiddle="5">A higher pitched voice.</pitch>
+<pitch absmiddle="-5">A lower pitched voice.</pitch>
+<pitch middle="10">Very high pitch now.</pitch>
+<volume level="50">This is spoken at half volume.</volume>
+<volume level="20">A quiet whisper of a sentence.</volume>
+This word is <emph>very</emph> important.
+Wait for it. <silence msec="500"/> Now continue.
+First part <silence msec="1000"/> second part.
+Normal speech, <rate absspeed="6">then faster speech,</rate> and normal again.
+<pitch absmiddle="4"><rate absspeed="-3">Higher and slower together.</rate></pitch>
+@rate=5 The global speaking rate is set higher.
+@rate=-4 The global speaking rate is set lower.
+@vol=60 The global volume is reduced to sixty percent.
+@rate=2 @vol=80 A combination of rate and volume settings.
+@rate=-10 Extremely slow global rate.
+@rate=2 A slightly faster reading of this ordinary sentence.
+@rate=7 Quick announcements are read at a brisk pace by the system.
+@rate=3 The first sentence is short. The second one is a little longer, with a comma. Is the third one a question?
+<rate absspeed="8"><volume level="60">Fast and quiet speech tests the volume after stretching.</volume></rate>
+Plain start, <rate absspeed="4">then faster,</rate> <rate absspeed="9">then much faster still,</rate> and back to normal.

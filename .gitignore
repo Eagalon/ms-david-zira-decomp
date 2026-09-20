@@ -1,0 +1,28 @@
+# Microsoft voice data: never commit
+data/
+M1033*.APM
+M1033*.BEP
+*.dat
+
+# build output, dumps, audio
+build/
+ghidra/
+decomp/
+bin/
+ref/
+*.exe
+*.obj
+*.o
+*.dll
+*.so
+*.dylib
+*.lib
+*.exp
+*.pdb
+*.ilk
+*.wav
+*.dump
+*.log
+__pycache__/
+tests/**/out/
+tests/**/tmp*/
