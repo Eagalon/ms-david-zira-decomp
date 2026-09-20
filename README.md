@@ -37,6 +37,15 @@ make voice                 (Linux / macOS / MinGW)
 
 Floating point must stay exact: never `-ffast-math`, keep `-ffp-contract=off`.
 
+Windows builds produce **`zira_tts.dll`** with its import library, and `build\<arch>\dist\` collects the
+DLL, the `.lib`, the headers (`zira_tts.h` is the one to include) and the CLI — everything another program
+needs. On other platforms `make dist` does the same with `libzira_tts.so`.
+
+`python tools/make_portable.py --voices David Zira Mark` goes one step further and writes
+`build\<arch>\portable\`: the same drop with a copy of your own voice data beside it and a launcher that
+points at it, so the folder runs on a machine with no voices installed. The data in it is Microsoft's, so
+keep that folder to your own machines.
+
 ## Running
 
 ```

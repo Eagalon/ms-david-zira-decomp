@@ -23,6 +23,24 @@ cl %CF% zira_cli.c %TTSSRC% /Fe:..\build\%ARCH%\zira.exe || exit /b 1
 cl %CF% /I. ..\tests\lib\lib_test.c %TTSSRC% /Fe:..\build\%ARCH%\zira_lib_test.exe || exit /b 1
 if not exist ..\build\%ARCH%\dll mkdir ..\build\%ARCH%\dll
 cl /nologo /O2 /W4 /fp:precise /D_CRT_SECURE_NO_WARNINGS /Fo..\build\%ARCH%\dll\ /LD /DZIRA_BUILD_DLL %TTSSRC% /Fe:..\build\%ARCH%\zira_tts.dll || exit /b 1
+rem ---- dist: the Windows library drop - the DLL with what another program needs to use it
+set DIST=..\build\%ARCH%\dist
+if not exist %DIST% mkdir %DIST%
+copy /y ..\build\%ARCH%\zira_tts.dll %DIST% >nul
+copy /y ..\build\%ARCH%\zira_tts.lib %DIST% >nul 2>nul
+copy /y ..\build\%ARCH%\zira.exe %DIST% >nul
+copy /y zira_tts.h %DIST% >nul
+copy /y zb.h %DIST% >nul
+> %DIST%\README.txt echo Microsoft David, Zira and Mark (Windows OneCore TTS) - portable C port (%ARCH%)
+>> %DIST%\README.txt echo.
+>> %DIST%\README.txt echo   zira_tts.dll, zira_tts.lib   the library: include zira_tts.h and link zira_tts.lib
+>> %DIST%\README.txt echo   zira.exe                     the command line front end
+>> %DIST%\README.txt echo.
+>> %DIST%\README.txt echo No voice data is included. Point --dir at C:\Windows\Speech_OneCore\Engines\TTS\en-US
+>> %DIST%\README.txt echo (M1033David.APM / .BEP / .INI and MSTTSLocEnUS.dat) from your own installation.
+>> %DIST%\README.txt echo.
+>> %DIST%\README.txt echo Other platforms: make voice (libzira_tts.so), see the Makefile.
+echo dist: %DIST%
 goto :eof
 
 :findvs

@@ -61,7 +61,20 @@ $(OUT)/lib_test.o: ../tests/lib/lib_test.c zira_tts.h | $(OUT)
 $(OUT)/zira_lib_test: $(OUT)/lib_test.o $(OUT)/libzira_tts.a
 	$(CC) $(LDFLAGS) $^ -o $@ $(LDLIBS) -pthread
 
+# the library drop for other programs: the shared library, its headers and the CLI
+dist: $(OUT)/libzira_tts.so $(OUT)/zira
+	mkdir -p $(OUT)/dist
+	cp $(OUT)/libzira_tts.so $(OUT)/zira $(OUT)/dist/
+	cp zira_tts.h zb.h $(OUT)/dist/
+	printf '%s\n' \
+	  'Microsoft David, Zira and Mark (Windows OneCore TTS) - portable C port' '' \
+	  '  libzira_tts.so   the library: include zira_tts.h and link against it' \
+	  '  zira             the command line front end' '' \
+	  'No voice data is included. Point --dir at the folder holding M1033David.APM,' \
+	  'its .BEP / .INI and MSTTSLocEnUS.dat from your own installation.' > $(OUT)/dist/README.txt
+	@echo "dist: $(OUT)/dist"
+
 clean:
 	rm -rf $(OUT)
 
-.PHONY: all voice clean
+.PHONY: all voice dist clean
