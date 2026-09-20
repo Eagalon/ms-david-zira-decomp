@@ -67,6 +67,19 @@ void zf2_events_free(zf2_events *ev);
 /* One-call convenience: zf2_run + zf2_features (+ events if ev != NULL). */
 int zf2_process(const zf2_voice *v, const zf_sentence *in, ZbUtt *out, zf2_events *ev);
 
+/* ---- per-word results of the prosody rules (stage 1+2): what decides phrasing, pauses and emphasis ---- */
+typedef struct {
+    int inserted;       /* 1 = pause word zf2 created, not one of the input sentence's words */
+    int type;           /* ZF_WT_* of the word */
+    int bi;             /* BreakIndex after the word: 2 word, 3 intermediate phrase, 4 intonation phrase, 5 sentence */
+    int tone;           /* ToBI final boundary tone (0 = none) */
+    int pause_class;    /* index into the voice's [SilenceLength] table */
+    int pause_ms;       /* that entry's length in ms (0 when no voice is given) */
+    int emphasis;       /* accent / emphasis flag */
+} zf2_wordinfo;
+/* Fills out[] in word order, including the pause words zf2 inserts.  Returns the count written, or -1. */
+int zf2_word_prosody(const zf2_sent *s, const zf2_voice *v, zf2_wordinfo *out, int max);
+
 /* ---- generic feature-path evaluation (any "Phone.Syllable.Word.NextWord.POS" style path of the engine's
  *      CTTSFeatureMeta grammar that uses the supported locations/properties) ---- */
 typedef struct {

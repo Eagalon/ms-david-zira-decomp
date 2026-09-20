@@ -260,6 +260,25 @@ int zf2_process(const zf2_voice *v, const zf_sentence *in, ZbUtt *out, zf2_event
     return r;
 }
 
+/* ---- per-word prosody (see zf2.h): what the rules decided, for callers driving another back end ---- */
+int zf2_word_prosody(const zf2_sent *s, const zf2_voice *v, zf2_wordinfo *out, int max)
+{
+    int i, n;
+    if (!s || !out) return -1;
+    n = s->nw < max ? s->nw : max;
+    for (i = 0; i < n; i++) {
+        const Z2W *w = &s->w[i];
+        out[i].inserted = w->inserted;
+        out[i].type = w->type;
+        out[i].bi = w->bi;
+        out[i].tone = w->tone;
+        out[i].pause_class = w->pause;
+        out[i].pause_ms = v && w->pause >= 0 && w->pause < 8 ? v->sil[w->pause] : 0;
+        out[i].emphasis = w->emph;
+    }
+    return n;
+}
+
 /* ---- debug dump (subset of the harness/zftap2 format) ---- */
 void zf2_dump(const zf2_sent *s, void *fp, const char *stage)
 {

@@ -97,7 +97,10 @@ With `ZIRA_SPEAK_XML` the text may use SAPI XML: `<pitch>`, `<rate>`, `<volume>`
 - `notes/` – how every stage works, with addresses in the original DLLs (backend, paramgen, vocoder, io,
   frontend, fe1, fe2, and the sub-notes for sentence splitting, normalization, POS and pronunciation).
 - `harness/` – programs that load the real engine, hook it and dump its internal structures for comparison.
-- `tools/` – python parsers and helpers (APM/BEP, the language data file, disassembly aids).
+- `tools/` – python parsers and helpers (APM/BEP, the language data file, disassembly aids), plus
+  `voc_analyze.py` / `voc_compare.py`: analyse any 16 kHz recording into this vocoder's parameters
+  (LSFs, F0, gain), resynthesize it with `src/zb_vocode_test.c`, and score the result. Useful for
+  hearing what the vocoder does to a voice that was never trained for it.
 - `tests/` – input corpora and comparison scripts per stage (reference outputs come from the harnesses).
 
 ## License
